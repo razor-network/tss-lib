@@ -1,3 +1,5 @@
+Forked from https://gitlab.com/thorchain/tss/tss-lib/-/commit/e1fed6a07f266d96b5c3d33b9ae29a9adef46edc 
+
 # Multi-Party Threshold Signature Scheme
 [![MIT licensed][1]][2] [![GoDoc][3]][4] [![Go Report Card][5]][6]
 
